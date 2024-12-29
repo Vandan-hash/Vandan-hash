@@ -1,15 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=4682B4&width=435&lines=Hi+there,+I'm+Jatin+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=4682B4&width=435&lines=Hi+there,+I'm+Vandana+👋)](https://git.io/typing-svg)
 
 # <img src="https://png.pngtree.com/png-vector/20240724/ourmid/pngtree-user-about-me-png-image_12800558.png" alt="Face in Clouds" width="35" height="35" /> About Me:
 <p align="left">
   
-**Hi! I'm a Data Analyst with a passion for extracting insights from data.  I'm currently pursuing my Master's in Computer Applications (MCA) at Amity University and have a strong foundation in Python, SQL, data visualization tools like Tableau, and version control systems like Git.**
+**Hi! I'm a Data Analyst with a passion for extracting insights from data.I have completed My Master's in Commerece (M.com) from CCS University, Meerut and have a strong foundation in Python, SQL, data visualization tools like Power BI, and databases like MySQL.**
 
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=3&color=4682B4&width=435&lines=Tableau+Public+Link!!!!)](https://public.tableau.com/app/profile/jatin.yadav2805/vizzes)
 
 ## <img src="https://static.vecteezy.com/system/resources/previews/036/584/129/non_2x/3d-illustration-of-software-development-free-png.png" alt="Hammer and Wrench" width="35" height="35" /> Technologies & Tools:
 
@@ -27,7 +26,7 @@
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
         <img src="https://image.similarpng.com/very-thumbnail/2021/09/Microsoft-Excel-icon-design-on-transparent-background-PNG.png" alt="excel" width="40" height="40"/> 
     </a> 
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://icons8.com/icon/qYfwpsRXEcpc/power-bi"> 
         <img src="https://img.icons8.com/color/512/tableau-software.png" alt="tableau" width="40" height="40"/> 
     </a> 
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
@@ -52,7 +51,7 @@
   Let's work together! I'm always open to opportunities and eager to work on exciting real-world data projects.  
 </p>
 
-<a href="mailto:jatinydav557@gmail.com">
+<a href="mailto:vandanasharma9520@gmail.com">
  <img align="left" alt="Gmail" width="50" height="45" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-logo-icon-download-in-svg-png-gif-file-formats--mail-email-logos-icons-2416660.png?f=webp"/>
 </a>
 <a href="https://www.linkedin.com/in/jatin-yadav-52783527a/">
