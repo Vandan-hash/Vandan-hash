@@ -26,9 +26,8 @@
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
         <img src="https://image.similarpng.com/very-thumbnail/2021/09/Microsoft-Excel-icon-design-on-transparent-background-PNG.png" alt="excel" width="40" height="40"/> 
     </a> 
-    <a href="https://icons8.com/icon/qYfwpsRXEcpc/power-bi"> 
-        <img src="https://img.icons8.com/color/512/tableau-software.png" alt="tableau" width="40" height="40"/> 
-    </a> 
+   <a href="https://icons8.com/icon/74402/power-bi">
+    <img src="https://img.icons8.com/color/512/power-bi.png" alt="power-bi" width="40" height="40"/> 
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
     </a> 
@@ -54,6 +53,6 @@
 <a href="mailto:vandanasharma9520@gmail.com">
  <img align="left" alt="Gmail" width="50" height="45" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-logo-icon-download-in-svg-png-gif-file-formats--mail-email-logos-icons-2416660.png?f=webp"/>
 </a>
-<a href="https://www.linkedin.com/in/jatin-yadav-52783527a/">
+<a href="[https://www.linkedin.com/in/jatin-yadav-52783527a/](https://www.linkedin.com/in/vandana-sharma06/)">
   <img align="left" alt="LinkedIn" width="100" height="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
